@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\bin\Debug\AgeInSeconds.exe.config
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\bin\Debug\AgeInSeconds.exe
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\bin\Debug\AgeInSeconds.pdb
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\obj\Debug\AgeInSeconds.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\obj\Debug\AgeInSeconds.exe
+C:\Users\opilane\projects\Lesson10\AgeInSeconds\obj\Debug\AgeInSeconds.pdb

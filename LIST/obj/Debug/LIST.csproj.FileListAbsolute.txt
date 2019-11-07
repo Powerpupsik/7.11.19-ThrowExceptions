@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Lesson10\LIST\bin\Debug\LIST.exe.config
+C:\Users\opilane\projects\Lesson10\LIST\bin\Debug\LIST.exe
+C:\Users\opilane\projects\Lesson10\LIST\bin\Debug\LIST.pdb
+C:\Users\opilane\projects\Lesson10\LIST\obj\Debug\LIST.exe
+C:\Users\opilane\projects\Lesson10\LIST\obj\Debug\LIST.pdb
+C:\Users\opilane\projects\Lesson10\LIST\obj\Debug\LIST.csprojAssemblyReference.cache

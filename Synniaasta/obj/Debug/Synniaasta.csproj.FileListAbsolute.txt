@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Lesson10\Synniaasta\bin\Debug\Synniaasta.exe.config
+C:\Users\opilane\projects\Lesson10\Synniaasta\bin\Debug\Synniaasta.exe
+C:\Users\opilane\projects\Lesson10\Synniaasta\bin\Debug\Synniaasta.pdb
+C:\Users\opilane\projects\Lesson10\Synniaasta\obj\Debug\Synniaasta.exe
+C:\Users\opilane\projects\Lesson10\Synniaasta\obj\Debug\Synniaasta.pdb

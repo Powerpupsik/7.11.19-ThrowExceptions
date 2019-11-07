@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\bin\Debug\WorkinWithFile.exe.config
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\bin\Debug\WorkinWithFile.exe
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\bin\Debug\WorkinWithFile.pdb
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\obj\Debug\WorkinWithFile.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\obj\Debug\WorkinWithFile.exe
+C:\Users\opilane\projects\Lesson10\WorkinWithFile\obj\Debug\WorkinWithFile.pdb

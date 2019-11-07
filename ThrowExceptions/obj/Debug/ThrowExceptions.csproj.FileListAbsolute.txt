@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\bin\Debug\ThrowExceptions.exe.config
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\bin\Debug\ThrowExceptions.exe
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\bin\Debug\ThrowExceptions.pdb
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\obj\Debug\ThrowExceptions.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\obj\Debug\ThrowExceptions.exe
+C:\Users\opilane\projects\Lesson10\ThrowExceptions\obj\Debug\ThrowExceptions.pdb

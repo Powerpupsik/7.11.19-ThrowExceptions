@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Lesson10\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.exe.config
+C:\Users\opilane\projects\Lesson10\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.exe
+C:\Users\opilane\projects\Lesson10\HowToHandleExceptions\bin\Debug\HowToHandleExceptions.pdb
+C:\Users\opilane\projects\Lesson10\HowToHandleExceptions\obj\Debug\HowToHandleExceptions.exe
+C:\Users\opilane\projects\Lesson10\HowToHandleExceptions\obj\Debug\HowToHandleExceptions.pdb
